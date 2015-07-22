@@ -2,4 +2,6 @@
     <string name="app_name">MinesweeperBoom</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="Minesweeper_Boom">Minesweeper Boom</string>
+
 </resources>
